@@ -1,0 +1,19 @@
+{
+  "name": "3dflipcard",
+  "version": "1.0.0",
+  "description": "3d_flip_card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kai"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "save": "^2.4.0"
+  }
+}
